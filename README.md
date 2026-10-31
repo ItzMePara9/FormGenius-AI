@@ -14,7 +14,7 @@ Generate, customize, edit, and publish beautiful Google Forms using natural lang
 ![Node.js](https://img.shields.io/badge/Node.js-24.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![License](https://img.shields.io/badge/License-Apache--2.0-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/mit-license-blue?style=for-the-badge)
 
 <br/>
 
