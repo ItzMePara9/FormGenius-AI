@@ -614,7 +614,7 @@ For major changes, open an issue first to discuss your proposal.
 
 ## 📜 License
 
-FormGenius AI is licensed under the **Apache License 2.0**.
+FormGenius AI is licensed under the **MIT**.
 
 You are free to use, modify, distribute, and build upon this project under the terms of the license.
 
